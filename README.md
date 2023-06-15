@@ -1,4 +1,4 @@
-# Learn Terraform - Upload a Sentinel Policy
+# Learn Terraform - Upload a Sentinel Policy - 
 
 This is a companion repository for the [Upload Your Sentinel Policy Set to
 Terraform
